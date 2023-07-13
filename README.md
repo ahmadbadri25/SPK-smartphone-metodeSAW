@@ -8,6 +8,6 @@ jika ingin memakai nya ikutin tutorial ini <br>
 4. buka xampp aktifkan apache dan mysqlnya<br>
 5. lalu buka di browser ketik "localhost/phpmyadmin/"<br>
 6. buat database baru dengan nama "db_spkhp"<br>
-7. lalu kalian import saja dengan nama file "spk_hp.sql" file nya ada di dalam project SPKSmartphoneMetodeSAW<br>
+7. lalu kalian import saja dengan nama file "spk_hp.sql" file nya ada di dalam project SPK-smartphone-metodeSAW<br>
 8. jika sudah semua, kalian buka browser ketik " localhost/smartphone"<br>
 
